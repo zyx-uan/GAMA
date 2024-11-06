@@ -29,7 +29,6 @@ with st.expander("IMPORTANT NOTICE"):
 
 st.title("GenAI Access Management Assistant (GAMA)")
 
-st.title("GenAI Access Management Assistant (GAMA)")
 
 # Function for uploading files
 def upload_excel_file(label, key):
